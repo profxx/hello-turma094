@@ -1,8 +1,8 @@
 Coloque o seu nome e o seu github
 Alexandre Pimentel - profxx
 Ana Clara Santos - nahclarah
+Ana Júlia Barbosa - anajuliabarbosaa
 Davi Pagliares - P4gli
-Davi H. Pires - Hermogenes04
 Eduardo - eduardowtnb
 Emiliano Correa - EmilianoCorrea10
 Larissa Batista - Batista-Lari
@@ -20,7 +20,6 @@ Milena Alves - MilenaAlvesS
 Rebeca Adelaide - soaresrebeca
 Pedro Paiva - PedroPaiva0809
 Pedro Henrique Martins Oliveira - pedromrtnsx
-Pedro Henrique Silveira - PedroSilveira
 Rafael Mennuti - Rafamennuti
 Sarah Otaviano - sahotaviano
 Valentina Urtiaga - valenurtiaga
